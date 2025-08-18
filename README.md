@@ -54,7 +54,7 @@ http://localhost:8000
 
 # Screenshots
 
-![image alt]()
+![image alt](https://github.com/sanjaiycs/Hackathon/blob/79eaf2af74cfbfec401335662fedb23f94bc8c93/Screenshot%202025-08-18%20at%207.43.39%20PM.jpg)
 
 
 # Future Improvements 
