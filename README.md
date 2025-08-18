@@ -8,8 +8,8 @@ An AI-powered buyer agent that negotiates prices with sellers using FastAPI (bac
 * Smart counteroffers based on budget and product
 * Simple web interface for testing the agent
 
-**How It Works**
- User provides:
+# How It Works
+ **User provides:**
 
 * Product name
 * Maximum budget
