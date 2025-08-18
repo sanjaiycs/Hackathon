@@ -39,17 +39,17 @@ An AI-powered buyer agent that negotiates prices with sellers using FastAPI (bac
 git clone https://github.com/sanjaiycs/Hackathon.git
 cd ai-negotiation-agent
 
-2. Set up virtual environment
+3. Set up virtual environment
 python -m venv .venv
 .\.venv\Scripts\activate
 
-3. Install dependencies
+4. Install dependencies
 pip install -r requirements.txt
 
-4. Run the server
+5. Run the server
 uvicorn app.main:app --reload
 
-5. Open in browser
+6. Open in browser
 http://localhost:8000
 
 # Screenshots
