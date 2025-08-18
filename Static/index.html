@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Negotiation Agent</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <h1>Buyer Agent Negotiation</h1>
+    <div class="inputs">
+      <input id="product" type="text" placeholder="Product (e.g. Laptops)">
+      <input id="budget" type="number" placeholder="Budget (₹)">
+    </div>
+    <div class="chat" id="chat"></div>
+    <div class="controls">
+      <input id="sellerMsg" type="text" placeholder="Seller message...">
+      <button onclick="sendMessage()">Send</button>
+      <button onclick="resetSession()">Reset</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
