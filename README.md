@@ -36,7 +36,7 @@ An AI-powered buyer agent that negotiates prices with sellers using FastAPI (bac
 # Installation 
 
 1. Clone the repo
-git clone https://github.com/yourusername/ai-negotiation-agent.git
+git clone https://github.com/sanjaiycs/Hackathon.git
 cd ai-negotiation-agent
 
 2. Set up virtual environment
