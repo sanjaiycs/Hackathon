@@ -9,7 +9,6 @@ An AI-powered buyer agent that negotiates prices with sellers using FastAPI (bac
 * Simple web interface for testing the agent
 
 # How It Works
-
 ## User provides:
 
 * Product name
@@ -26,10 +25,12 @@ An AI-powered buyer agent that negotiates prices with sellers using FastAPI (bac
 
 # Tech Stack
 
-Component      Technology
-Backend	       FastAPI
-AI Agent       Concordia
-Frontend       HTML/CSS/JS
+| Component  | Technology   |
+|------------|-------------|
+| Backend    | FastAPI     |
+| AI Agent   | Concordia   |
+| Frontend   | HTML/CSS/JS |
+| Deployment | (Optional)  |
 
 
 # Installation 
